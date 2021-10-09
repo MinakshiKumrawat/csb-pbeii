@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://minakshikumrawat.github.io/csb-pbeii/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://minakshikumrawat.github.io/csb-pbeii/static/js/main.4055b08b.chunk.js",
+    "main.js.map": "https://minakshikumrawat.github.io/csb-pbeii/static/js/main.4055b08b.chunk.js.map",
+    "runtime-main.js": "https://minakshikumrawat.github.io/csb-pbeii/static/js/runtime-main.ae4aacad.js",
+    "runtime-main.js.map": "https://minakshikumrawat.github.io/csb-pbeii/static/js/runtime-main.ae4aacad.js.map",
+    "static/js/2.a4ba2aed.chunk.js": "https://minakshikumrawat.github.io/csb-pbeii/static/js/2.a4ba2aed.chunk.js",
+    "static/js/2.a4ba2aed.chunk.js.map": "https://minakshikumrawat.github.io/csb-pbeii/static/js/2.a4ba2aed.chunk.js.map",
+    "index.html": "https://minakshikumrawat.github.io/csb-pbeii/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://minakshikumrawat.github.io/csb-pbeii/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a4ba2aed.chunk.js.LICENSE.txt": "https://minakshikumrawat.github.io/csb-pbeii/static/js/2.a4ba2aed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae4aacad.js",
+    "static/js/2.a4ba2aed.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.4055b08b.chunk.js"
+  ]
+}
